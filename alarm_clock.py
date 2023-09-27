@@ -8,6 +8,8 @@ from threading import *
 # Create Object
 root = Tk()
 
+new = 1
+
 # Set geometry
 root.geometry("400x200")
 
